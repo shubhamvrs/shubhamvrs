@@ -10,10 +10,8 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://shubhamkwe.bio.link/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamvrs/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubhamvrs)
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@shubhamvrs)
-
-<a href="https://instagram.com/shubhamvrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamvrs" height="30" width="40" /></a>
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://www.instagram.com/shubhamvrs/)
 
 </p>
 
