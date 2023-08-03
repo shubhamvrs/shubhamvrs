@@ -9,9 +9,17 @@
 </p>
 
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 ## 🚀 About Me
 I'm a frontend developer...
+
+
+
+
+
+
+
 
 
 ## 🛠 Skills
