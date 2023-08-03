@@ -11,7 +11,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://shubhamkwe.bio.link/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamvrs/)
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@shubhamvrs)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://www.instagram.com/shubhamvrs/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=youtube&logoColor=orange)](https://www.instagram.com/shubhamvrs/)
 
 </p>
 
