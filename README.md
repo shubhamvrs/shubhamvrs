@@ -11,6 +11,12 @@ I'm a frontend developer...
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamvrs&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamvrs" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
 
